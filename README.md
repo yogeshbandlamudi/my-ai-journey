@@ -5,6 +5,7 @@ Goal: Transition from zero coding knowledge to a Junior AI Engineer. Commitment:
 Focus: Master the tools used to clean and move data. No data = No AI.
 
 🛠 Week 1: Python Basics
+
 [ ] Day 01: Setup (VS Code & Python) & Hello World | Link
 
 [ ] Day 02: Variables, Integers, and Floats | Link
@@ -20,6 +21,7 @@ Focus: Master the tools used to clean and move data. No data = No AI.
 [ ] Sprint Review 01: Recap notes & Solve 3 Hackerrank Easy problems.
 
 🛠 Week 2: Intermediate Python
+
 [ ] Day 07: Dictionaries and Sets (Key-Value) | Link
 
 [ ] Day 08: Functions & Scope | Link
@@ -35,6 +37,7 @@ Focus: Master the tools used to clean and move data. No data = No AI.
 [ ] Sprint Review 02: Build a simple "Personal Finance Tracker" script.
 
 📊 Week 3: Data Science Libraries (NumPy & Pandas)
+
 [ ] Day 13: NumPy: Arrays & Slicing | Link
 
 [ ] Day 14: NumPy: Matrix Math Basics | Link
@@ -50,6 +53,7 @@ Focus: Master the tools used to clean and move data. No data = No AI.
 [ ] Sprint Review 03: Use Pandas to analyze a free dataset from Kaggle.
 
 📐 Week 4: The Math of AI
+
 [ ] Day 19: Linear Algebra: Vectors & Dot Products | Link
 
 [ ] Day 20: Linear Algebra: Matrix Multiplication | Link
@@ -65,6 +69,7 @@ Focus: Master the tools used to clean and move data. No data = No AI.
 [ ] Sprint Review 04: Review Gradient Descent intuition (How AI "corrects" itself).
 
 🟩 Phase 2: Machine Learning Mastery (Month 2)
+
 Focus: Teaching computers to find patterns in data without explicit rules.
 
 🤖 Week 5: Supervised Learning (Regression)
@@ -83,6 +88,7 @@ Focus: Teaching computers to find patterns in data without explicit rules.
 [ ] Sprint Review 05: Reflect on Bias vs. Variance.
 
 🌳 Week 6: Classification
+
 [ ] Day 31: Logistic Regression Theory | Link
 
 [ ] Day 32: Decision Trees | Link
@@ -98,6 +104,7 @@ Focus: Teaching computers to find patterns in data without explicit rules.
 [ ] Sprint Review 06: Compare model accuracies using Confusion Matrices.
 
 📈 Week 7: Model Evaluation & Pipelines
+
 [ ] Day 37: Precision, Recall, F1-Score | Link
 
 [ ] Day 38: ROC and AUC Curves | Link
@@ -113,6 +120,7 @@ Focus: Teaching computers to find patterns in data without explicit rules.
 [ ] Sprint Review 07: Refactor your Titanic project using a Pipeline.
 
 🌫 Week 8: Unsupervised Learning
+
 [ ] Day 43: K-Means Clustering Theory | Link
 
 [ ] Day 44: Dimensionality Reduction (PCA) | Link
@@ -128,9 +136,11 @@ Focus: Teaching computers to find patterns in data without explicit rules.
 [ ] Sprint Review 08: Build a customer segmentation model using K-Means.
 
 🟨 Phase 3: Deep Learning & Generative AI (Month 3)
+
 Focus: Neural networks, Large Language Models (LLMs), and Deployment.
 
 🧠 Week 9: Neural Networks Basics
+
 [ ] Day 49: What is a Neural Network? | Link
 
 [ ] Day 50: Activation Functions (ReLU/Softmax) | Link
@@ -146,6 +156,7 @@ Focus: Neural networks, Large Language Models (LLMs), and Deployment.
 [ ] Sprint Review 09: Solve a simple classification problem using PyTorch.
 
 🖼 Week 10: Computer Vision (CNNs)
+
 [ ] Day 55: CNN Theory (How AI sees images) | Link
 
 [ ] Day 56: Convolution & Pooling Layers | Link
@@ -161,6 +172,7 @@ Focus: Neural networks, Large Language Models (LLMs), and Deployment.
 [ ] Sprint Review 10: Fine-tune a pre-trained model for your own images.
 
 🗣 Week 11: NLP & Transformers
+
 [ ] Day 61: NLP: Tokenization & Embeddings | Link
 
 [ ] Day 62: RNNs and LSTMs | Link
@@ -176,6 +188,7 @@ Focus: Neural networks, Large Language Models (LLMs), and Deployment.
 [ ] Sprint Review 11: Build a text classifier using Hugging Face pipelines.
 
 ⚡ Week 12: Generative AI & Deployment
+
 [ ] Day 67: How GPT Models Work | Link
 
 [ ] Day 68: Prompt Engineering & LLM APIs | Link
@@ -191,6 +204,7 @@ Focus: Neural networks, Large Language Models (LLMs), and Deployment.
 [ ] Sprint Review 12: FINAL PROJECT - Deploy an AI-powered Web App.
 
 🏁 Final Countdown (Last 18 Days)
+
 Focus: Portfolio, Resume, and Interview prep.
 
 [ ] Day 73-80: Grand Portfolio Project (Unique to you!)
